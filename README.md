@@ -1,4 +1,4 @@
-![logo](https://github.com/ds-Rezwan/ds-Rezwan/blob/main/Github.jpg)
+![logo](https://github.com/ds-Rezwan/ds-Rezwan/blob/main/GitHub-banner.jpg)
 <h1 align="center">Hi 👋, I'm Md Abu Rezwan</h1>
 <h3 align="center">A passionate Data Analyst from Darmstadt,Germany</h3>
 
